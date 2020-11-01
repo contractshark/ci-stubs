@@ -1,0 +1,7 @@
+
+ {
+    "solidity.compileUsingLocalVersion": "$HOME/solc/soljson-v0.5.9+commit.c68bc34e.js",
+    "solidity.formatter": "none",
+    "solidity.linter": "",
+    "solidity.packageDefaultDependenciesContractsDirectory": "contracts"
+}
